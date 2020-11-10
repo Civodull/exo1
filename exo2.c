@@ -32,6 +32,5 @@ while (n<1 || n>10)
     printf("Entrer un nombre entre 1 et 10\n");
     scanf("%d", &n);
 }
-
     return 0;
 }
